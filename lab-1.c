@@ -123,6 +123,8 @@ void RGB(void)
 
 
 
+
+
 void delay(void)
 {
          SysCtlDelay(6700000);                // creates ~500ms delay - TivaWare fxn
